@@ -1,0 +1,2 @@
+# Vantage資源利用レポート
+Teradata VantageのDBQLにアクセスして問題解析用の資源レポートを作成します
